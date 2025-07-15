@@ -1,7 +1,7 @@
 
 # Real-Time-Food-Delivery-System-AWS
 
-![AWS Architecture Diagram](https://raw.githubusercontent.com/AayushPandey05/IAM-and-Compliance-/main/aws_Img.jpg)
+![AWS Architecture Diagram](https://raw.githubusercontent.com/AayushPandey05/Real-Time-Food-Delivery-System-Using-AWS-Cloud-Services/main/aws_Img.jpg)
 
 **Real-Time Food Delivery System Using AWS Cloud Services**
 
