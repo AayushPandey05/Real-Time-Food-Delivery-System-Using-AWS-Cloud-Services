@@ -60,4 +60,3 @@ This project highlighted the importance of scalable cloud solutions in efficient
 ---
 
 ✍️ **Author**: *Aayush Pandey*  
-📬 *Connect for more projects or insights!*
